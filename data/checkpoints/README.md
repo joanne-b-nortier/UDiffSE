@@ -1,0 +1,1 @@
+# Put pretrained checkpoints here. Link to download: [Google drive link](https://drive.google.com/file/d/1sqP9ClhsJRP3Dy1tD7jHVc3wur8ho5Fn/view?usp=sharing)
