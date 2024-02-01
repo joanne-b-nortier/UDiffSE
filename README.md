@@ -2,7 +2,7 @@
 
 This repository contains the PyTorch implementation for the following paper:
 
-> B. Nortier, M. Sadeghi, and R. Serizel, [Unsupervised Speech Enhancement with Diffusion-based Generative Models](https://hal.science/hal-04210707), September 2023.
+> B. Nortier, M. Sadeghi, and R. Serizel, [Unsupervised Speech Enhancement with Diffusion-based Generative Models](https://hal.science/hal-04210707), ICASSP 2024.
 
 ## Table of contents
 - [Installation](#installation)
@@ -47,16 +47,17 @@ A collection of audio samples that compare the speech enhancement performances o
 
 ## Supplementary material
 
-Supplementary material, including additional details, discussions and parameter studies that serve to expand our work is provided in the `docs` directory ([direct link](./docs/UDiffSE_Supplementary.pdf)).
+Supplementary material, including additional details, discussions, and parameter studies that serve to expand our work is provided in the `docs` directory ([direct link](./docs/UDiffSE_Supplementary.pdf)).
 
 ## Bibtex
 
 ```bibtex
-@article{nortier2023unsupervised,
+@inproceedings{nortier2023unsupervised,
   title={Unsupervised speech enhancement with diffusion-based generative models},
   author={Nortier, Bern{\'e} and Sadeghi, Mostafa and Serizel, Romain},
-  journal={arXiv preprint arXiv:2309.10450},
-  year={2023}
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
